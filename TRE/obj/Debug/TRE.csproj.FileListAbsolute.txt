@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TRE\TRE\bin\Debug\TRE.exe.config
+C:\Users\User\source\repos\TRE\TRE\bin\Debug\TRE.exe
+C:\Users\User\source\repos\TRE\TRE\bin\Debug\TRE.pdb
+C:\Users\User\source\repos\TRE\TRE\obj\Debug\TRE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TRE\TRE\obj\Debug\TRE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TRE\TRE\obj\Debug\TRE.exe
+C:\Users\User\source\repos\TRE\TRE\obj\Debug\TRE.pdb

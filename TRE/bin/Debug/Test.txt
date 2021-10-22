@@ -1,0 +1,17 @@
+<question>Сколько вам лет?
+<variant>10
+<variant>11
+<variant>12
+<variant>13
+<variant>15
+<question>На каком вы курсе?
+<variant>1
+<variant>2
+<variant>3
+<variant>4
+<question>Ns rnj
+<variant>h
+<variant>fg
+<variant>fdg
+
+
